@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 
-use SebaCarrasco93\KaataaCore\Console\Dojo;
+use ImprovePhp\KaataaCore\Console\Dojo;
 
 require __DIR__ . '/vendor/autoload.php';
 

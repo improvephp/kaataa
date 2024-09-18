@@ -2,7 +2,7 @@
 
 namespace Tests;
 
-use SebaCarrasco93\KaataaCore\Tests\BaseTestCase;
+use ImprovePhp\KaataaCore\Tests\BaseTestCase;
 
 class TestCase extends BaseTestCase
 {

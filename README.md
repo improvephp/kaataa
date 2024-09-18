@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/sebacarrasco93/kaataa" target="_blank"><img src="https://res.cloudinary.com/super-admin/image/upload/v1695245597/php-packages/kaataa/Kaataa_v1.0.0.png" width="400"></a></p>
+<p align="center"><a href="https://github.com/improvephp/kaataa" target="_blank"><img src="https://res.cloudinary.com/super-admin/image/upload/v1695245597/php-packages/kaataa/Kaataa_v1.0.0.png" width="400"></a></p>
 
 # Kaataa
 
@@ -34,7 +34,7 @@ Of course, it's also has the **dd** helper from [Symfony](https://symfony.com) f
 ## Installation
 
 ```sh
-composer create-project sebacarrasco93/kaataa {your_project_name}
+composer create-project improvephp/kaataa {your_project_name}
 ```
 
 ## Quick start

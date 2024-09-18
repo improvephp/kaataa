@@ -1,5 +1,5 @@
 {
-    "name": "sebacarrasco93/kaataa",
+    "name": "improvephp/kaataa",
     "description": "Start practicing code katas and improving your skills",
     "keywords": ["kaataa", "php", "kata", "phpunit", "mockery"],
     "type": "project",
@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "sebacarrasco93/kaataa-core": "^0.0.2"
+        "improvephp/kaataa-core": "^0.0.2"
     },
     "scripts": {
         "test": "vendor/bin/phpunit"
